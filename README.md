@@ -16,7 +16,7 @@ This repository demonstrates a comprehensive example of implementing a Room Data
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/room-database-demo.git
+   git clone https://github.com/PanktiSP13/roomDBDemo.git
    ```
 
 2. Open the project in Android Studio.
