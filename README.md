@@ -32,9 +32,9 @@ You can also examine the implementation details of the different components with
 
 ## Screenshots
 
-![Screenshot_20230815_031325](https://github.com/PanktiSP13/roomDBDemo/assets/58383702/730d33c3-7c5f-49d2-ae41-3e9c882b7801)
-![Screenshot_20230815_031440](https://github.com/PanktiSP13/roomDBDemo/assets/58383702/6eb9ac2e-681a-42b7-8bcc-7cb1019baff6)
-![Screenshot_20230815_031512](https://github.com/PanktiSP13/roomDBDemo/assets/58383702/8080d4e9-729a-42b3-9842-930ad88958b6)
+![Screenshot_20230815_031325](https://github.com/PanktiSP13/roomDBDemo/assets/58383702/730d33c3-7c5f-49d2-ae41-3e9c882b7801 | width=100)
+![Screenshot_20230815_031440](https://github.com/PanktiSP13/roomDBDemo/assets/58383702/6eb9ac2e-681a-42b7-8bcc-7cb1019baff6 | width=100)
+![Screenshot_20230815_031512](https://github.com/PanktiSP13/roomDBDemo/assets/58383702/8080d4e9-729a-42b3-9842-930ad88958b6 | width=100)
 
 
 ## Contributions
