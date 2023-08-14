@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomDBDemo</string>
+    <string name="add_user">Add User</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_number">Enter number</string>
+    <string name="add">Add</string>
+    <string name="no_instance_found">No instance found</string>
+    <string name="update">Update</string>
+    <string name="enter_email">Enter email (Optional)</string>
+</resources>
